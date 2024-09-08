@@ -12,12 +12,10 @@ turbulence is modeled by a 2-equation k-ε model. The objective is to identify t
 maximizes torque and power performance. A series of simulations were conducted across pitch angles 
 ranging from -10° to +7.5°, focusing on specific blade types (NACA 0021, NACA 2421, NACA 4421) 
 and tip speed ratios (TSR = 1.78, 120 RPM).
-The results demonstrated a 7.6% improvement in CP for the NACA 0021 airfoil at a -5
-0 pitch angle. 
+The results demonstrated a 7.6% improvement in CP for the NACA 0021 airfoil at a -5° pitch angle. 
 Additionally, the study explored the performance of cambered airfoils, where NACA 2421 and NACA 
-4421 showed significant CP gains (6.9% and 4.4%), with optimal pitch angles of -5
-0
-and -2.50
+4421 showed significant CP gains (6.9% and 4.4%), with optimal pitch angles of -5°
+and -2.5°
 respectively. These findings provide insights into the potential of pitch angle adjustments to enhance 
 VAWT performance, suggesting that symmetrical airfoils with fine-tuned pitch angles could offer 
 further efficiency improvements.
